@@ -1,0 +1,6 @@
+dictionary using test.raw {
+   _column(4)  str14 country  %14s "country name"
+   _column(23) int   settings %2.0f "settings"
+   _column(31) int   effort   %2.0f "effort"
+   _column(40) int   change   %2.0f "change"
+}
