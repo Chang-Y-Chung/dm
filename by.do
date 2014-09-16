@@ -1,5 +1,5 @@
 // Stata By-group Processing. In-depth Topic of Stata Workshop 2 (Data Management)
-// by Chang Y. Chung on 2013-09-18
+// by Chang Y. Chung on 2014-09-16
 
 // Dataset as a Matrix
    // create a simple dataset
@@ -237,7 +237,4 @@
    // check
    list in 100/150, sepby(dcode)
  
-   
-   
-   
-   
+ 

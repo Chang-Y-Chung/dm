@@ -1,5 +1,5 @@
 // Stata Date & Time. In-depth Topic of Stata Workshop 2 (Data Management)
-// by Chang Y. Chung 2013-09-18
+// by Chang Y. Chung 2014-09-16
 
 // two storage types
    clear all
@@ -243,7 +243,3 @@
    end
    list
    
-   
-   
-   
-      
