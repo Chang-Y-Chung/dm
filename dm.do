@@ -1,4 +1,4 @@
-// Stata Workshop 2 Data Management 2013-09-16 Chang Y. Chung
+// Stata Workshop 2 Data Management 2014-09-17 Chang Y. Chung
 
 // let it run
 set more off

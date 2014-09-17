@@ -1,6 +1,6 @@
 
 show: dm.html
-	rscript -e "library(rmarkdown);browseURL(paste('file://',file.path(getwd(), 'dm.html'), sep=''))"
+	open dm.html
 
 dm.html: dm.Rmd
 	rscript -e "library(rmarkdown); render('dm.Rmd', 'all')"
