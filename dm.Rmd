@@ -4,8 +4,10 @@ author: "Chang Y. Chung"
 date: "September 11, 2014"
 output:
   ioslides_presentation:
-    logo: ~/Dropbox/Professional/Workshops/Stata/dm/dm-figure/logo.png
+    logo: dm-figure/logo.png
     smaller: true
+    mathjax: null
+    self_contained: true
 ---
 
 ```{r echo=F}
